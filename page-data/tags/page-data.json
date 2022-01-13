@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-js",
+    "path": "/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"tag":"Happy","totalCount":1},{"tag":"SEO","totalCount":1},{"tag":"frontmatter","totalCount":1},{"tag":"graphql","totalCount":1},{"tag":"hello world","totalCount":1},{"tag":"mdx","totalCount":1},{"tag":"second blog","totalCount":1}]},"site":{"siteMetadata":{"title":"Sungmin's Blog"}}},"pageContext":{}},
+    "staticQueryHashes": []}
